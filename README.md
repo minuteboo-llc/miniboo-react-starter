@@ -1,68 +1,65 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Veve Website Built With React
 
-## Available Scripts
+[![npm version](https://badge.fury.io/js/create-ueno-app.svg)](https://veveusa.com)
+[![Logo](https://res.cloudinary.com/trujamal/image/upload/c_fit,g_west,h_200,w_140,x_214/v1538972172/Veve/Veve_Logo.png)](https://veveusa.com)
 
-In the project directory, you can run:
 
-### `npm start`
+The easiest and fatest way to create to get a look into our website and see how we created our full service agency from the ground up.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Opinionated dependencies.
+- SASS and CSS modules.
+- Root resolver (import components/foo).
+- Server Side Rendering.
+- MobX.
+- Code splitting.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## A quick overview of the page.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+No installation is needed.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+If you are using `yarn`:
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+```bash
+yarn create veve-app <stack> <project-name>
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+If you are using `npm`:
 
-### `npm run eject`
+```bash
+npx create-veve-app <stack> <project-name>
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+You can still install globally if you want:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+yarn global add create-veve-app
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+npm install -g create-veve-app
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+> **Warning** The `project-name` will be generated using the path you defined. e.g. `example-www` will be `exampleWww` as the name for the app.
 
-## Learn More
+> **Warning** The last argument is the `bundle-id` and is required.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Documentation
 
-### Code Splitting
+Take a look at the [documentation table of contents](dist/doc/TOC.md).
+This documentation is bundled with the project which makes it
+available for offline reading and provides a useful starting point for
+any documentation you want to write about your project.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## License
 
-### Analyzing the Bundle Size
+The code is available under the [MIT license](LICENSE.txt).
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
+## Preview
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+[![logo](https://i.gyazo.com/0a5c75edfd135674f54b00c768e3b84a.jpg)](https://https://veveusa.com)
+<br /><br />
