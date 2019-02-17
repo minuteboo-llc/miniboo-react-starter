@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/create-ueno-app.svg)](https://veveusa.com)
 [![devDependency Status](https://david-dm.org/h5bp/html5-boilerplate/dev-status.svg)](https://david-dm.org/h5bp/html5-boilerplate#info=devDependencies)
 [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/Cuberto/flashy-tabbar/master/LICENSE)
-[![Logo](https://cl.ly/88bd2e401227/Image%202019-02-17%20at%202.10.33%20AM.png)](https://veveusa.com)
+[![Logo](https://cl.ly/37c4992140e9/Image%202019-02-17%20at%202.44.46%20AM.png)](https://veveusa.com)
 
 Kick off your project with this opinionated boilerplate. This barebones starter ships with the main react configuration files you might need.
 
