@@ -1,20 +1,11 @@
-## Veve Website Built With React
+# veve-react-starter
 
 [![npm version](https://badge.fury.io/js/create-ueno-app.svg)](https://veveusa.com)
-[![Logo](https://res.cloudinary.com/trujamal/image/upload/c_fit,g_west,h_200,w_140,x_214/v1538972172/Veve/Veve_Logo.png)](https://veveusa.com)
+[![devDependency Status](https://david-dm.org/h5bp/html5-boilerplate/dev-status.svg)](https://david-dm.org/h5bp/html5-boilerplate#info=devDependencies)
+[![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/Cuberto/flashy-tabbar/master/LICENSE)
+[![Logo](https://cl.ly/88bd2e401227/Image%202019-02-17%20at%202.10.33%20AM.png)](https://veveusa.com)
 
-
-The easiest and fatest way to create to get a look into our website and see how we created our full service agency from the ground up.
-
-- Opinionated dependencies.
-- SASS and CSS modules.
-- Root resolver (import components/foo).
-- Server Side Rendering.
-- MobX.
-- Code splitting.
-
-## A quick overview of the page.
-
+Kick off your project with this opinionated boilerplate. This barebones starter ships with the main react configuration files you might need.
 
 ## Installation
 
@@ -46,7 +37,6 @@ npm install -g create-veve-app
 
 > **Warning** The last argument is the `bundle-id` and is required.
 
-
 ## Documentation
 
 Take a look at the [documentation table of contents](dist/doc/TOC.md).
@@ -54,12 +44,9 @@ This documentation is bundled with the project which makes it
 available for offline reading and provides a useful starting point for
 any documentation you want to write about your project.
 
+## Contribution
+We would love you to contribute to veve-swift-starter, check the CONTRIBUTING file for more info.
+
 ## License
 
 The code is available under the [MIT license](LICENSE.txt).
-
-
-## Preview
-
-[![logo](https://i.gyazo.com/0a5c75edfd135674f54b00c768e3b84a.jpg)](https://https://veveusa.com)
-<br /><br />
